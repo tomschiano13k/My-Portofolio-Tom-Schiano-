@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Schiano Tom",
+    "label": "Elève au Lyçée Adam de Craponne",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "schianotom667@gmail.com",
+    "phone": "0767441039",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Je souhaite m'améliorer dans la cybersècurité afin de dévlopper mes connaissance et pouvoir en faire mon métier",
+    "location": { "address": "12 Rue du château", "postalCode": "13930", "city": "Aureille", "countryCode": "FR", "region": "Bouche-du-Rhône" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
