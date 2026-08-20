@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Schiano Tom",
-    "label": "Elève au Lyçée Adam de Craponne",
+    "label": "Elève au Lycée Adam de Craponne",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "schianotom667@gmail.com",
     "phone": "0767441039",
@@ -18,9 +18,9 @@
   "interests": [
     { "name": "Server maintenance" },
     { "name": "Programming" },
-    { "name": "Learn cybersecurity" },
-    { "name": "Vidéo editing" },
-    { "name": "Photo editing" }
+    { "name": "Apprendre l'administration" },
+    { "name": "Montage vidéo" },
+    { "name": "Edition de photo" }
   ],
   "skills": [
     {
