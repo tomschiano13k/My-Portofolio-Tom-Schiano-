@@ -9,35 +9,35 @@
     "summary": "Je souhaite m'améliorer dans la cybersècurité afin de dévlopper mes connaissance et pouvoir en faire mon métier",
     "location": { "address": "12 Rue du château", "postalCode": "13930", "city": "Aureille", "countryCode": "FR", "region": "Bouche-du-Rhône" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "tomschiano13K", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "tomschiano", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "tomschiano", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "tomschiano", "url": "http://instagram.com/tom13k_"" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Server maintenance" },
+    { "name": "Programming" },
+    { "name": "Learn cybersecurity" },
+    { "name": "Vidéo editing" },
+    { "name": "Photo editing" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "", "", "", "", "", "" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Rocky Linux", "", "" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Lycée Adam de craponne / Salons-de-provence / FR",
+      "area": "Administrateur / Ingénieur Sécurité Systèmes et Réseaux / Ingénieur DevSecOps",
+      "studyType": "Lycée scolaire",
+      "startDate": "2025-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -46,8 +46,8 @@
   "work": [
     {
       "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
+      "position": "Elève",
+      "website": "Pas encore",
       "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
